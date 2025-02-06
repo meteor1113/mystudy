@@ -1,4 +1,4 @@
 fn main() {
     println!("Hello, world!");
-    / std::io::BufReader v;
+    // std::io::BufReader v;
 }

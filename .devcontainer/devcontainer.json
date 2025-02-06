@@ -10,16 +10,6 @@
 		// "ghcr.io/devcontainers/features/python:1": {},
 		"ghcr.io/devcontainers/features/rust:1": {},
 		"ghcr.io/devcontainers/features/docker-outside-of-docker:1": {}
-	},
-	"customizations": {
-		"vscode": {
-			"extensions": [
-				"Gruntfuggly.todo-tree",
-				"jerrygoyal.shortcut-menu-bar",
-				"mhutchie.git-graph",
-				"EditorConfig.EditorConfig"
-			]
-		}
 	}
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
