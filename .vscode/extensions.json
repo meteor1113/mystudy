@@ -1,10 +1,9 @@
 {
-    "recommendations": [
-      "gruntfuggly.todo-tree",
-      "mhutchie.git-graph",
-      "jerrygoyal.shortcut-menu-bar",
-      "editorconfig.editorconfig",
-      "formulahendry.code-runner",
-    ]
-  }
-  
+  "recommendations": [
+    "gruntfuggly.todo-tree",
+    "mhutchie.git-graph",
+    "jerrygoyal.shortcut-menu-bar",
+    "editorconfig.editorconfig",
+    "formulahendry.code-runner",
+  ]
+}
