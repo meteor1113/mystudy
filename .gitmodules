@@ -1,0 +1,21 @@
+[submodule "go/ollama"]
+	path = go/ollama
+	url = https://github.com/ollama/ollama
+[submodule "go/dive"]
+	path = go/dive
+	url = https://github.com/wagoodman/dive
+[submodule "go/frp"]
+	path = go/frp
+	url = https://github.com/fatedier/frp
+[submodule "go/gitea"]
+	path = go/gitea
+	url = https://github.com/go-gitea/gitea
+[submodule "go/k9s"]
+	path = go/k9s
+	url = https://github.com/derailed/k9s
+[submodule "go/lazydocker"]
+	path = go/lazydocker
+	url = https://github.com/jesseduffield/lazydocker
+[submodule "go/gotty"]
+	path = go/gotty
+	url = https://github.com/yudai/gotty
