@@ -6,9 +6,11 @@ import (
 	"io"
 	"log"
 	"micro-cloud/framework"
+	"micro-cloud/model"
 	"micro-cloud/service"
 	"micro-cloud/utils"
 	"net/http"
+	"time"
 )
 
 type UserConterller struct {
@@ -76,7 +78,13 @@ func (p *UserConterller) login(w http.ResponseWriter, r *http.Request) {
 
 // GET/POST
 func (p *UserConterller) findAll(w http.ResponseWriter, r *http.Request) {
-	users := userService.SelectAllUser()
+	// users := userService.SelectAllUser()
+
+	var users []model.User = []model.User{
+		{ID: 1, Username: "user1", Password: "password", CreateTime: time.Now()},
+		{ID: 2, Username: "user2", Password: "password"},
+	}
+
 	framework.ResultJsonOk(w, users)
 }
 
