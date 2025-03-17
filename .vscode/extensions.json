@@ -6,5 +6,6 @@
     "editorconfig.editorconfig",
     "formulahendry.code-runner",
     "moonbit.moonbit-lang",
+    "humao.rest-client",
   ]
 }
