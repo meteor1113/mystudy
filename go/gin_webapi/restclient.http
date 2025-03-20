@@ -3,19 +3,14 @@ GET http://localhost:8080/ping HTTP/1.1
 content-type: application/json
 
 ###
-GET http://localhost:8080/message HTTP/1.1
+GET http://localhost:8080/message?name=name1 HTTP/1.1
 content-type: application/json
-
-{
-    "username": "user1",
-    "password": "password"
-}
 
 ###
 POST http://localhost:8080/movie HTTP/1.1
 content-type: application/json
 
 {
-    "name": "user1",
+    "name": "movie1",
     "score": 44
 }
