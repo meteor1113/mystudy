@@ -22,3 +22,6 @@
 [submodule "go/go-zero"]
 	path = go/go-zero
 	url = https://github.com/zeromicro/go-zero
+[submodule "moonbit/mooncakes.io"]
+	path = moonbit/mooncakes.io
+	url = https://github.com/moonbitlang/mooncakes.io
