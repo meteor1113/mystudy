@@ -25,3 +25,6 @@
 [submodule "moonbit/mooncakes.io"]
 	path = moonbit/mooncakes.io
 	url = https://github.com/moonbitlang/mooncakes.io
+[submodule "go/sing-box"]
+	path = go/sing-box
+	url = https://github.com/SagerNet/sing-box
