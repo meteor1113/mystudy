@@ -4,9 +4,6 @@
 [submodule "go/dive"]
 	path = go/dive
 	url = https://github.com/wagoodman/dive
-[submodule "go/frp"]
-	path = go/frp
-	url = https://github.com/fatedier/frp
 [submodule "go/gitea"]
 	path = go/gitea
 	url = https://github.com/go-gitea/gitea
