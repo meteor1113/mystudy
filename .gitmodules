@@ -4,15 +4,9 @@
 [submodule "go/gitea"]
 	path = go/gitea
 	url = https://github.com/go-gitea/gitea
-[submodule "go/k9s"]
-	path = go/k9s
-	url = https://github.com/derailed/k9s
 [submodule "go/go-zero"]
 	path = go/go-zero
 	url = https://github.com/zeromicro/go-zero
 [submodule "moonbit/mooncakes.io"]
 	path = moonbit/mooncakes.io
 	url = https://github.com/moonbitlang/mooncakes.io
-[submodule "go/sing-box"]
-	path = go/sing-box
-	url = https://github.com/SagerNet/sing-box
