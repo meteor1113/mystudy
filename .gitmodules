@@ -7,9 +7,6 @@
 [submodule "go/k9s"]
 	path = go/k9s
 	url = https://github.com/derailed/k9s
-[submodule "go/lazydocker"]
-	path = go/lazydocker
-	url = https://github.com/jesseduffield/lazydocker
 [submodule "go/go-zero"]
 	path = go/go-zero
 	url = https://github.com/zeromicro/go-zero
