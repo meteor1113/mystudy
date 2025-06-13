@@ -1,6 +1,3 @@
-[submodule "go/ollama"]
-	path = go/ollama
-	url = https://github.com/ollama/ollama
 [submodule "go/gitea"]
 	path = go/gitea
 	url = https://github.com/go-gitea/gitea
